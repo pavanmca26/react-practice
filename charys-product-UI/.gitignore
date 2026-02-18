@@ -1,0 +1,82 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Build outputs
+dist/
+build/
+.tmp/
+out/
+coverage/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# React Native / Android / iOS
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+ios/Pods/
+ios/build/
+*.keystore
+*.jks
+
+# Metro / packager
+.expo/
+.expo-shared/
+.expo-local/
+.expo-cache/
+*.expo
+
+# Misc caches
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.cache-loader/
+
+# JetBrains
+*.iml
+
+# Generated files
+*.class
+*.war
+*.jar
+
+# Temporary files
+tmp/
+temp/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Optional: lockfiles for other package managers (uncomment if used)
+# pnpm-lock.yaml

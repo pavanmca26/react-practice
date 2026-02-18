@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f7f7f7; }
+.app { max-width: 980px; margin: 24px auto; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+header h1 { margin: 0 0 8px 0; }
+.product-form fieldset { border: 1px solid #ddd; padding: 12px; margin-bottom: 12px; }
+.product-form label { display: block; margin-bottom: 8px; }
+.product-form input, .product-form textarea, .product-form select { width: 100%; padding: 6px 8px; margin-top: 4px; box-sizing: border-box; }
+.pack { background: #fafafa; padding: 12px; border-radius: 6px; margin-bottom: 12px; }
+.photo-block { background: #fff; padding: 8px; border: 1px solid #eee; margin-bottom: 8px; }
+.url-row { display: flex; gap: 8px; margin-bottom: 6px; }
+.url-row input { flex: 1; }
+button { padding: 6px 10px; margin-top: 6px; cursor: pointer; }
+.response { margin-top: 16px; }
+.success { background: #e6ffed; padding: 12px; border-radius: 6px; }
+.error { background: #ffe6e6; padding: 12px; border-radius: 6px; }
+.info { background: #fffbe6; padding: 12px; border-radius: 6px; }
